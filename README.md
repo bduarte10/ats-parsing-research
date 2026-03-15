@@ -152,4 +152,18 @@ MIT — use, contribua, compartilhe.
 
 ---
 
+## Contribuidores
+
+Pessoas que contribuíram com dados empíricos, testes reais e perspectivas de dentro do processo:
+
+| Usuário | Contribuição |
+|---|---|
+| [@gusbemacbe1989](https://www.reddit.com/user/gusbemacbe1989) | Benchmark Puppeteer vs Google Docs no Affinda — dados de parsing por campo |
+| [@Kick_Physical](https://www.reddit.com/user/Kick_Physical) | Teste empírico de multicolunas no Gupy — confirmação do problema e solução |
+| [@Helltux](https://www.reddit.com/user/Helltux) | Perspectiva de recrutador técnico sênior — como ATS + humano funciona na prática, diferença entre operação e fábrica de software, sugestão de company culture match como feature |
+
+*Discussão original: [r/brdev — Estudei como os principais ATS do mercado funcionam por dentro](https://www.reddit.com/r/brdev)*
+
+---
+
 *Iniciado em março de 2026 · Contribuições bem-vindas*
