@@ -142,7 +142,7 @@ Fonte/referência: [link ou @usuario]
 
 ## Aplicação prática
 
-Este repo é a base de pesquisa do **[Git Push Hired](https://gitpush-hired.vercel.app)** — ferramenta que usa esses dados para reescrever currículos nos parâmetros do ATS de cada vaga específica. Em desenvolvimento, lista de acesso antecipado aberta.
+Este repo é a base de pesquisa do **[Git Push Hired](https://gitpush-hired.vercel.app/landing)** — ferramenta que usa esses dados para reescrever currículos nos parâmetros do ATS de cada vaga específica. Em desenvolvimento, lista de acesso antecipado aberta.
 
 ---
 
